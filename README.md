@@ -4,6 +4,7 @@ Hello. My name is Aaron Lam. I was previously a Computer Science at UC Irvine wi
 - Web Applications (both frontend and backend)
 - Servers
 - UI/UX Design
+- Game Design
 - Computer Vision and Computer Graphics
 
 ## Programming Languages
