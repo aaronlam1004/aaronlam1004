@@ -1,11 +1,11 @@
 # Aaron Lam 🐲
 Hello. My name is Aaron Lam. I was previously a Computer Science at UC Irvine with Specialization in Visual Computing.<br/>
 <u>Current interest are in:</u>
-- Web Applications (both frontend and backend)
-- Servers
-- UI/UX Design
-- Game Design
+- Front-End and Back-End
 - Computer Vision and Computer Graphics
+- UI/UX Design
+- Servers
+- Game Design
 
 ## Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
